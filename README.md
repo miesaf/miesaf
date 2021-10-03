@@ -1,6 +1,8 @@
 # Hi, I'm MieSaF 👋
 
-![miesaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=miesaf&show_icons=true&theme=onedark&count_private=true)
+![MieSaF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miesaf&show_icons=true&theme=onedark&count_private=true)
+
+![MieSaF's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miesaf&layout=compact&theme=dark&langs_count=8&exclude_repo=bookers-BE,ASL-Detection)
 
 - 🔭 I’m currently working as Software Developer
 - 🌱 I’m currently learning to be the best
