@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miesaf&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miesaf&layout=compact&theme=dark&langs_count=8" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=miesaf&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=miesaf&layout=compact&theme=dark&langs_count=8" />
 </p>
 
 - 🔭 I’m currently working as Software Developer
